@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{67940FEB-43EB-4877-AE58-A3655DFC2431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "clock\clock.csproj", "{9CC1D731-2E2A-4B4A-A7B7-5CD72432DF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67940FEB-43EB-4877-AE58-A3655DFC2431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67940FEB-43EB-4877-AE58-A3655DFC2431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67940FEB-43EB-4877-AE58-A3655DFC2431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67940FEB-43EB-4877-AE58-A3655DFC2431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC1D731-2E2A-4B4A-A7B7-5CD72432DF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC1D731-2E2A-4B4A-A7B7-5CD72432DF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC1D731-2E2A-4B4A-A7B7-5CD72432DF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC1D731-2E2A-4B4A-A7B7-5CD72432DF69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
